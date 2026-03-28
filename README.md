@@ -31,3 +31,14 @@ budget tier, runtime and audience ratings.
 ## Skills Demonstrated
 SELECT, WHERE, GROUP BY, HAVING, ORDER BY, CASE WHEN, 
 Subqueries, Derived Table JOINs, Aggregate Functions
+
+## Query output screenshots
+
+**Query 1 — Top films by ROI:**
+![ROI Results](query1_roi_results.png)
+
+**Query 2 — Revenue by language:**
+![Language Results](query2_language_results.png)
+
+**Query 3 — Budget tier analysis:**
+![Budget Tier Results](query3_budget_tier_results.png)
